@@ -17,7 +17,7 @@ Therefore, is the implementation of the congestion surcharge already fair and be
 # **Section**
 This project consists of Data Understanding, Data Cleaning, and Exploratory Data Analysis
 
-#**Data Dictionary**
+# **Data Dictionary**
 |Feature | Description |
 |---- | ---- |
 | VendorID | A code that differentiates the provider of the Livery Payment and Enabling Platform (LPEP), with code "1" for Creative Mobile Technologies, LLC and code "2" for VeriFone Inc.|
