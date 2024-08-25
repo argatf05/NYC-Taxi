@@ -9,4 +9,7 @@ However, the New York Taxi Workers Alliance claims that the surcharges will seve
 Therefore, is the implementation of the congestion surcharge already fair and beneficial?
 
 ---
-
+# **Problem Statement (Rumusan Masalah)**
+1. How has the congestion surcharge been applied throughout Manhattan? (Bagaimana pemerataan implementasi *congestion surcharge* di Manhattan?)
+2.  How do customers behave towards the implementation of the congestion surcharge? (Bagaimana *customer behavior* terhadap penerapan congestion surcharge?)
+3. What are the potential impacts of a fairer congestion surcharge implementation? (Apa potensi dampak dari penerapan *congestion surcharge* yang lebih merata?)
